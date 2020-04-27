@@ -29,4 +29,7 @@ Manifest.toml
 *.jpg
 *.pdf
 
+# Data
+*.txt
+
 !/track
